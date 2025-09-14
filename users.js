@@ -4,13 +4,13 @@
 
 const users = [
   { username: "admin", password: "admin1234" },
-  { username: "Pearl's", password: "482391" },
-  { username: "Hen House", password: "947203" },
-  { username: "Uwu Café", password: "628340" },
-  { username: "Delight", password: "130982" },
-  { username: "Rex Diner", password: "562713" },
-  { username: "Paradiso", password: "792134" },
-  { username: "Yellow Jack", password: "871932" }
+  { username: "Pearl's", password: "519430" },
+  { username: "Hen House", password: "461863" },
+  { username: "Uwu Café", password: "013734" },
+  { username: "Delight", password: "710393" },
+  { username: "Rex Diner", password: "412843" },
+  { username: "Paradiso", password: "067137" },
+  { username: "Yellow Jack", password: "810359" }
 ];
 
 // Fonction pour vérifier les identifiants
